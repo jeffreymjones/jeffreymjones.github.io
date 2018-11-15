@@ -5,8 +5,10 @@ html {
   height: 100%; 
 }
 
+font-family: 'Poiret One', cursive;
+
 body {
-  font-family: 'Spectral SC', serif;
+  font-family: 'Montserrat', sans-serif;
 }
 
 hr {
@@ -21,7 +23,7 @@ hr {
 
 header.startup {
   background-position: center;
-  background-image: url(header.webp);
+  background-image: url("header.jpg");
   background-size: cover;
   height: 100%;
 }
@@ -39,7 +41,7 @@ header.startup h1 {
   font-weight: 700;
   text-transform: uppercase;
   border-radius: 300px;
-  font-family: 'Poiret One', cursive;
+  font-family: 'Montserrat', sans-serif;
 }
 
 .btn-xl {
